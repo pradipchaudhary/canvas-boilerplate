@@ -12,4 +12,4 @@ Now, you can access `Core.globals` that returns all the neccessary properties of
 
 An implementation of this project can be found on below repository.
 
-LINK: [canvas-particles](https://github.com/ashiishme/canvas-particles)
+LINK: [canvas](https://github.com/pradipchaudhary/canvas-particles)
